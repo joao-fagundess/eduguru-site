@@ -9,7 +9,7 @@ export const projeto = {
   resumo:
     'O EduGuru é uma aplicação web que ajuda estudantes a organizar a rotina de estudos, praticar o conteúdo e acompanhar a própria evolução.',
   linkApp: 'https://tttrisos.github.io/EduGuru/',
-  linkRepo: 'https://github.com/tttrisos/EduGuru',
+  linkRepo: 'https://github.com/joao-fagundess/eduguru-site',
   curso: 'Sistema de Informação',
   instituicao: 'Universidade Mogi das Cruzes - UMC',
   ano: 2026,
